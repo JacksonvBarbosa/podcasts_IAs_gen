@@ -21,9 +21,9 @@
   🔊 Ouça o Preview
 </p>
 
-<div align="center">
-  🎵 <audio src="output/preview_podcast.MP3" controls title="Preview do Podcast"></audio>
-</div>
+<p align="center">
+  🎵 <a href="./output/preview_podcast.MP3" target="_blank">Clique aqui para ouvir o Preview</a>
+</p>
 
 ---
 
@@ -59,9 +59,9 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
   🎧 Episódio 1 – <span style="color:#0078D7;">O Universo dos Dados</span>
 </p>
 
-<div align="center">
-  <audio src="output/primeiro_ep_podcast_editado.MP3" controls title="Episódio completo do podcast"></audio>
-</div>
+<p align="center">
+  🎵 <a href="./output/primeiro_ep_podcast_editado.MP3" target="_blank">Clique aqui para ouvir o Episódio Completo</a>
+</p>
 
 ---
 ## 👨‍💻 Criador
